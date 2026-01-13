@@ -1,0 +1,1 @@
+This is a website that is based on the template from: https://github.com/kevinlin1/just-the-class

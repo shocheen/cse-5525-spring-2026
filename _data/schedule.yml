@@ -1,0 +1,101 @@
+- section: Elements of a Simple NLP System
+  lectures:
+    - date: 14-Jan
+      topic: Course Overview / Introduction
+      badges:
+        - text: HW1 Out
+          color: green
+    - date: 16-Jan
+      topic: Text Classification, Data Basics, Perceptron
+    - date: 21-Jan
+      topic: Neural Network Basics
+
+- section: Language Modeling Fundamentals
+  lectures:
+    - date: 23-Jan
+      topic: Lexical Semantics, Word Embeddings
+    - date: 28-Jan
+      topic: N-gram Language Models
+      badges:
+        - text: HW1 Due
+          color: red
+        - text: HW2 Out
+          color: green
+    - date: 30-Jan
+      topic: Tokenization
+    - date: 4-Feb
+      topic: Neural Language Models, Attention...
+    - date: 6-Feb
+      topic: Transformers
+    - date: 11-Feb
+      topic: "Pre-training 1: Encoders (BERT)"
+      badges:
+        - text: HW2 Due (TBD)
+          color: red
+    - date: 13-Feb
+      topic: "Pre-training 2: BART/T5/GPT, Decoding Methods"
+    - date: 18-Feb
+      topic: "Pre-training 3: Scaling, Prompting, In-Context Learning, Chain-of-Thought"
+
+- section: Learning from Labeled Data
+  lectures:
+    - date: 20-Deb
+      topic: "Alignment I: Instruction Tuning"
+      badges:
+        - text: FP Proposals Due
+          color: red
+        - text: HW3 Out
+          color: green
+    - date: 25-Feb
+      topic: "Alignment II: Reward Modeling / Preference Optimization"
+    - date: 27-Feb
+      topic: "Parameter Efficient Finetuning: (Q)LoRA"
+    - date: 4-Mar
+      topic: Benchmarking
+    - date: 6-Mar
+      topic: "Sequence Tagging"
+
+- section: Linguistic Structure Prediction
+  lectures:
+    - date: 11-Mar
+      topic: "Parsing"
+      badges:
+        - text: HW3 Due
+          color: red
+    - date: 13-Mar
+      topic: "Efficiency" 
+
+- section: Modern LMs in Practice
+  lectures:
+    - date: 18-Mar
+      topic: "Spring break - No class"
+    - date: 20-Mar
+      topic: "Spring break - No class" 
+    - date: 25-Mar
+      topic: "Multilingual LMs"
+    - date: 27-Mar
+      topic: Interpretability
+      badges:
+        - text: FP Check in Due
+          color: red
+    - date: 1-Apr
+      topic: Retrieval
+    - date: 3-Apr
+      topic: Agents
+    - date: 8-Apr
+      topic: "Multimodal LMs"
+    - date: 10-Apr
+      topic: Safety and Ethics
+    - date: TBD
+      topic: 
+    - date: 15-Apr
+      topic: TBD
+    - date: 17-Apr
+      topic: TBD
+    - date: 22-Apr
+      topic: FP Presentations
+    - date: 24-Apr
+      topic: FP Presentations
+      badges:
+        - text: "FP Final Reports Due TBD"
+          color: red
