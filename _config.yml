@@ -34,9 +34,13 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   "Canvas":
-    - "#"
+    - "https://osu.instructure.com/courses/206578"
   "Teams":
-    - "#"
+    - "https://teams.microsoft.com/l/team/19%3Augbd61ZcSotX5lx4WVn1P0zBOcfNkmIVLxU1RxRM8mM1%40thread.tacv2/conversations?groupId=e49e1d0c-535a-4c00-b8db-59f168a242f6&tenantId=eb095636-1052-4895-952b-1ff9df1d1121"
+  "Gradescope":
+    - "https://www.gradescope.com/courses/1223891"
+  "TopHat":
+    - "https://app.tophat.com/e/362400/"
 footer_content:
 
 # Collections for website data

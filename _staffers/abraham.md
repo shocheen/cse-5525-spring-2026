@@ -5,7 +5,7 @@ email: owodunni.1@osu.edu
 website: https://owos.github.io/
 photo: abraham.jpg
 meta:
-  Office Hours: TBD
+  Office Hours: Wednesday 12.30-1.30pm
   Location: Dreese 474
 ---
 

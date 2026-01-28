@@ -62,7 +62,7 @@ The timeline of assignments is on the course calendar. Assignment specifications
 * Assignment 3: 20%
 * Final project: 45%
 * Quizes: 10% 
-* Class Participation: 4% (bonus)
+* Class Participation: 6% (bonus)
 
 Assignments will be submitted on Gradescope. Each assignment PDF will have more detailed instructions about what to submit; typically the submissions will consist of autograded code (e.g., measuring dev set accuracy of your model) and a brief written report.
 
