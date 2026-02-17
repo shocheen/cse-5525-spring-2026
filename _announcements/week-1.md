@@ -1,5 +1,5 @@
 ---
-title: Course website is live!
+title: Assignment 1 released!
 week: 0
 date: 2026-01-14
 ---

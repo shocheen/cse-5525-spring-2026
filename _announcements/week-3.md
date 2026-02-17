@@ -1,10 +1,8 @@
 ---
-title: Course website is live!
+title: Assignment 2 released!
 week: 0
 date: 2026-01-28
 ---
-
-## Assignment 2
 
 The second assignment is now ready. The instructions can be found [here]({{ "/assets/assignment2/CSE_5525__Assignment_2__SP_2026_.pdf" | relative_url }}).
 
