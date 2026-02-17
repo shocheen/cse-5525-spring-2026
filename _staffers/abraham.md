@@ -5,7 +5,7 @@ email: owodunni.1@osu.edu
 website: https://owos.github.io/
 photo: abraham.jpg
 meta:
-  Office Hours: Tuesday 2 PM - 3 PM
+  Office Hours: Tuesday 2:30 PM - 3:30 PM
   Location: "[Zoom](https://osu.zoom.us/j/98905367180?pwd=o9w6Ly0RWB4zWtAKqmNDbogdnTMceI.1)"
 ---
 
