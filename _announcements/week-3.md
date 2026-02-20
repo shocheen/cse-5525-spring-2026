@@ -1,6 +1,6 @@
 ---
 title: Assignment 2 released!
-week: 0
+week: 3
 date: 2026-01-28
 ---
 

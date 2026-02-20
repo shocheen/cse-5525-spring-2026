@@ -1,10 +1,8 @@
 ---
 title: Assignment 1 released!
-week: 0
+week: 1
 date: 2026-01-14
 ---
-
-## Assignment 1
 
 The first assignment is now ready. The instructions can be found [here]({{ "/assets/assignment1/CSE_5525__Assignment_1__SP_2026_.pdf" | relative_url }}).
 
