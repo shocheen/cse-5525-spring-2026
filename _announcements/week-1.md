@@ -4,8 +4,6 @@ week: 0
 date: 2026-01-14
 ---
 
-## Assignment 1
-
 The first assignment is now ready. The instructions can be found [here]({{ "/assets/assignment1/CSE_5525__Assignment_1__SP_2026_.pdf" | relative_url }}).
 
 The code and dataset can be downloaded [here]({{ "/assets/assignment1/p1-distrib.zip" | relative_url }}).
