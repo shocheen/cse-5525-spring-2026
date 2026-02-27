@@ -39,7 +39,7 @@
 
 - section: Learning from Labeled Data
   lectures:
-    - date: 20-Deb
+    - date: 20-Feb
       topic: "Alignment I: Instruction Tuning"
       badges:
         - text: FP Proposals Due
